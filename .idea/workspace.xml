@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3326e547-667d-4a6c-a4a5-ecc9f89e0aef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/ihsan/id/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ihsan/id/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ihsan/id/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinkedListDemo">
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihsan.id.LinkedListDemo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihsan.id.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ihsan.id.Main" />
       <module name="untitled" />
@@ -50,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListDemo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
